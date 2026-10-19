@@ -15,3 +15,4 @@ Nothing from work appears here unless it is already public.
 
 - [Docket help center](https://help.docket.io), which I maintain.
 - [AI agents vs marketing automation](https://www.docket.io/blog/ai-agents-vs-marketing-automation), a piece I wrote for the Docket blog.
+- [LinkedIn](https://www.linkedin.com/in/garima-vishwakarma-a95163316)
